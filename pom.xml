@@ -18,7 +18,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <!-- spring/spring-mvc版本号 -->
-        <spring.version>4.3.23.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <!-- 数据库相关 -->
         <mysql.version>5.1.32</mysql.version>
         <druid.version>1.0.9</druid.version>
